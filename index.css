@@ -1,0 +1,97 @@
+.leftside, .rightside{
+    height: 100vh;
+    background-color: #fff;
+}
+.leftside{
+    float: left;
+    width: 50%;
+}
+.rightside{
+    float: right;
+    width: 50%;
+}
+.spotify-image{
+    width: 470px;
+    display: flex;
+    margin: 120px;
+    border-radius: 20px;
+}
+.rightside-font{
+    margin-top: 120px;
+    font-size: 33px;
+    font-weight: 10px;
+}
+.rightside-button{
+    border-radius: 10px;
+    border-color: none;
+    border: none;
+    padding: 25px;
+    width: 550px; 
+    background-color: #C3F0C8;  
+}
+.rightside-button:hover{
+    background-color: aliceblue;
+}
+.rightside-pronouns{
+    font-weight: 60px;
+}
+.rightside-checkbox{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+.rightside-checkboxs{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+.rightside-contact{
+    font-size: 25px;
+}
+.rightside-form-one{
+    background-color: #E8F0FE;
+    border: none;
+    padding: 5px 26px 20px 13px ;
+    width: 510px;
+    border-radius: 10px;
+}
+.rightside-input{
+    margin-top: 20px;
+}
+.rightside-inputs {
+    margin-top: 20px;
+}
+.rightside-form-two{
+    padding: 5px 26px 20px 13px;
+    width: 510px;
+    border-radius: 10px;
+    border: 0.2px solid;
+}
+.span{
+    color: red;
+    padding: 20px;
+}
+.socials{
+    padding: 100px;
+    font-size: 26px;
+    /* width: 60%; */
+}
+.spotify-image-two{
+    width: 470px;
+    margin: 80px;
+}
+.rightside-form-twos{
+    padding: 20px 170px 190px 80px;
+    /* width: 550px;
+    height: 160px;  */
+    width: 300px;
+    border-radius: 20px;
+    border: 0.2px solid;
+}
+.spotify-images{
+    padding-right: 330px;
+    width: 470px;
+    /* display: flex; */
+    margin: 120px;
+    border-radius: 20px;
+}
